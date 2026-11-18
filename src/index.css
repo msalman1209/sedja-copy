@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-slate-800 bg-white;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+}
+
+/* Custom scrollbar matching clean UI */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Sejda button styling */
+.btn-sejda-primary {
+  background-color: #2c8a77;
+  color: #ffffff;
+  transition: all 0.2s ease;
+}
+.btn-sejda-primary:hover {
+  background-color: #237060;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(44, 138, 119, 0.25);
+}
+
+.btn-sejda-secondary {
+  background-color: #f1f5f9;
+  color: #334155;
+  transition: all 0.2s ease;
+}
+.btn-sejda-secondary:hover {
+  background-color: #e2e8f0;
+  color: #0f172a;
+}
+

@@ -1,0 +1,242 @@
+[
+  {
+    "category": "Merge",
+    "tools": [
+      {
+        "href": "./alternate-mix-pdf",
+        "name": "Alternate &amp; Mix Mixes pages from 2 or more documents, alternating between them",
+        "desc": "Mixes pages from 2 or more documents, alternating between them"
+      },
+      {
+        "href": "./merge-pdf",
+        "name": "Merge Combine multiple PDFs and images into one",
+        "desc": "Combine multiple PDFs and images into one"
+      },
+      {
+        "href": "./organize-pdf",
+        "name": "Organize Arrange and reorder PDF pages",
+        "desc": "Arrange and reorder PDF pages"
+      },
+      {
+        "href": "./extract-pdf-pages",
+        "name": "Extract Pages Get a new document containing only the desired pages",
+        "desc": "Get a new document containing only the desired pages"
+      },
+      {
+        "href": "./split-pdf",
+        "name": "Split by pages Split specific page ranges or extract every page into a separate document",
+        "desc": "Split specific page ranges or extract every page into a separate document"
+      },
+      {
+        "href": "./split-pdf-by-outline",
+        "name": "Split by bookmarks Extract chapters to separate documents based on the bookmarks in the table of contents",
+        "desc": "Extract chapters to separate documents based on the bookmarks in the table of contents"
+      },
+      {
+        "href": "./split-pdf-down-the-middle",
+        "name": "Split in half Split two page layout scans, A3 to double A4 or A4 to double A5",
+        "desc": "Split two page layout scans, A3 to double A4 or A4 to double A5"
+      },
+      {
+        "href": "./split-pdf-by-size",
+        "name": "Split by size Get multiple smaller documents with specific file sizes",
+        "desc": "Get multiple smaller documents with specific file sizes"
+      },
+      {
+        "href": "./split-pdf-by-text",
+        "name": "Split by text Extract separate documents when specific text changes from page to page",
+        "desc": "Extract separate documents when specific text changes from page to page"
+      }
+    ]
+  },
+  {
+    "category": "Edit &amp; Sign",
+    "tools": [
+      {
+        "href": "./pdf-editor",
+        "name": "Edit Edit PDF files for free. Fill &amp; sign PDF. Add text, links, images and shapes. Edit existing PDF text. Annotate PDF",
+        "desc": "Edit PDF files for free. Fill &amp; sign PDF. Add text, links, images and shapes. Edit existing PDF text. Annotate PDF"
+      },
+      {
+        "href": "./sign-pdf",
+        "name": "Fill &amp; Sign Add signature to PDF. Fill out PDF forms",
+        "desc": "Add signature to PDF. Fill out PDF forms"
+      },
+      {
+        "href": "./pdf-forms",
+        "name": "Create Forms Free PDF forms creator. Make existing PDF documents fillable",
+        "desc": "Free PDF forms creator. Make existing PDF documents fillable"
+      },
+      {
+        "href": "./delete-pdf-pages",
+        "name": "Delete Pages Remove pages from a PDF document",
+        "desc": "Remove pages from a PDF document"
+      },
+      {
+        "href": "./compress-pdf",
+        "name": "Compress Reduce the size of your PDF",
+        "desc": "Reduce the size of your PDF"
+      },
+      {
+        "href": "./encrypt-pdf",
+        "name": "Protect Protect file with password and permissions",
+        "desc": "Protect file with password and permissions"
+      },
+      {
+        "href": "./unlock-pdf",
+        "name": "Unlock Remove restrictions and password from PDF files",
+        "desc": "Remove restrictions and password from PDF files"
+      },
+      {
+        "href": "./watermark-pdf",
+        "name": "Watermark Add image or text watermark to PDF documents",
+        "desc": "Add image or text watermark to PDF documents"
+      },
+      {
+        "href": "./flatten-pdf",
+        "name": "Flatten Makes fillable PDFs read-only. Print &amp; scan in one step",
+        "desc": "Makes fillable PDFs read-only. Print &amp; scan in one step"
+      }
+    ]
+  },
+  {
+    "category": "Convert from PDF",
+    "tools": [
+      {
+        "href": "./pdf-to-excel",
+        "name": "PDF to Excel Convert PDF to Excel or CSV online for free. Extract table data from PDF",
+        "desc": "Convert PDF to Excel or CSV online for free. Extract table data from PDF"
+      },
+      {
+        "href": "./pdf-to-jpg",
+        "name": "PDF to JPG Get PDF pages converted to JPG, PNG or TIFF images",
+        "desc": "Get PDF pages converted to JPG, PNG or TIFF images"
+      },
+      {
+        "href": "./pdf-to-ppt",
+        "name": "PDF to PowerPoint Convert PDF to PowerPoint online",
+        "desc": "Convert PDF to PowerPoint online"
+      },
+      {
+        "href": "./extract-text-from-pdf",
+        "name": "PDF to Text Copies all text from the PDF document and extracts it to a separate text file",
+        "desc": "Copies all text from the PDF document and extracts it to a separate text file"
+      },
+      {
+        "href": "./pdf-to-word",
+        "name": "PDF to Word Convert from PDF to DOC online",
+        "desc": "Convert from PDF to DOC online"
+      },
+      {
+        "href": "./html-to-pdf",
+        "name": "HTML to PDF Convert web pages or HTML files to PDF documents",
+        "desc": "Convert web pages or HTML files to PDF documents"
+      },
+      {
+        "href": "./jpg-to-pdf",
+        "name": "JPG to PDF Convert Images to PDF",
+        "desc": "Convert Images to PDF"
+      },
+      {
+        "href": "./word-to-pdf",
+        "name": "Word to PDF Creates a PDF document from Microsoft Word .docx",
+        "desc": "Creates a PDF document from Microsoft Word .docx"
+      }
+    ]
+  },
+  {
+    "category": "Other",
+    "tools": [
+      {
+        "href": "./bates-numbering-pdf",
+        "name": "Bates Numbering Bates stamp multiple files at once",
+        "desc": "Bates stamp multiple files at once"
+      },
+      {
+        "href": "./pdf-bookmarks",
+        "name": "Create Bookmarks Create PDF Bookmarks",
+        "desc": "Create PDF Bookmarks"
+      },
+      {
+        "href": "./crop-pdf",
+        "name": "Crop Trim PDF margins, change PDF page size",
+        "desc": "Trim PDF margins, change PDF page size"
+      },
+      {
+        "href": "./edit-pdf-metadata",
+        "name": "Edit Metadata Change PDF Author, Title, Keywords, Subject and other metadata fields",
+        "desc": "Change PDF Author, Title, Keywords, Subject and other metadata fields"
+      },
+      {
+        "href": "./extract-images-from-pdf",
+        "name": "Extract Images Extract images from PDF",
+        "desc": "Extract images from PDF"
+      },
+      {
+        "href": "./flip-pdf",
+        "name": "Flip New Mirror pages horizontally or vertically",
+        "desc": "Mirror pages horizontally or vertically"
+      },
+      {
+        "href": "./grayscale-pdf",
+        "name": "Grayscale Make a PDF text and images grayscale",
+        "desc": "Make a PDF text and images grayscale"
+      },
+      {
+        "href": "./header-footer-pdf",
+        "name": "Header &amp; Footer Apply page numbers or text labels to PDF files",
+        "desc": "Apply page numbers or text labels to PDF files"
+      },
+      {
+        "href": "./n-up-pdf",
+        "name": "N-up Print multiple pages per sheet per paper. A5 plan as 4-up on A3 or A4 2-up on A3",
+        "desc": "Print multiple pages per sheet per paper. A5 plan as 4-up on A3 or A4 2-up on A3"
+      },
+      {
+        "href": "./page-numbers-pdf",
+        "name": "Page Numbers Add PDF page numbers",
+        "desc": "Add PDF page numbers"
+      }
+    ]
+  },
+  {
+    "category": "",
+    "tools": [
+      {
+        "href": "./rename-pdf",
+        "name": "Rename Change document filename based on text from the PDF pages",
+        "desc": "Change document filename based on text from the PDF pages"
+      },
+      {
+        "href": "./repair-pdf",
+        "name": "Repair Recover data from a corrupted or damaged PDF document",
+        "desc": "Recover data from a corrupted or damaged PDF document"
+      },
+      {
+        "href": "./resize-pdf",
+        "name": "Resize Add page margins and padding, Change PDF page size",
+        "desc": "Add page margins and padding, Change PDF page size"
+      },
+      {
+        "href": "./rotate-pdf-pages",
+        "name": "Rotate Rotate and save PDF pages permanently",
+        "desc": "Rotate and save PDF pages permanently"
+      },
+      {
+        "href": "./delete-pdf-annotations",
+        "name": "Remove annotations New Batch remove highlights, strikeouts or any other annotations from a PDF document",
+        "desc": "Batch remove highlights, strikeouts or any other annotations from a PDF document"
+      },
+      {
+        "href": "./deskew-pdf",
+        "name": "Deskew Automatically straighten and deskew scanned PDF pages",
+        "desc": "Automatically straighten and deskew scanned PDF pages"
+      },
+      {
+        "href": "./ocr-pdf",
+        "name": "OCR Convert PDF scans to searchable text and PDFs. Extract text from scans",
+        "desc": "Convert PDF scans to searchable text and PDFs. Extract text from scans"
+      }
+    ]
+  }
+]
